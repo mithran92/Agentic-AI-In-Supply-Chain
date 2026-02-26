@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-02-26 16:07:17",
+    "demand": 441,
+    "reorder": 156,
+    "supplier": "supplier e",
+    "reliability": 1.0
+  },
+  {
+    "timestamp": "2026-02-26 16:11:32",
+    "demand": 441,
+    "reorder": 156,
+    "supplier": "supplier e",
+    "reliability": 1.0
+  }
+]

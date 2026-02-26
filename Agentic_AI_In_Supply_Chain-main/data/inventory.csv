@@ -1,0 +1,6 @@
+product,current_stock,reorder_level,holding_cost,lead_time,past_delay
+Biscuits,320,400,2.5,5,1
+Rice,500,600,1.2,7,0
+Milk,180,300,3.0,2,2
+Sugar,250,350,1.8,6,1
+Oil,140,250,2.2,8,2

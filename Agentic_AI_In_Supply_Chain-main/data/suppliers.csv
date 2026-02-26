@@ -1,0 +1,9 @@
+supplier,cost,delivery_time,past_delays,quality_score,reliability
+supplier a,50,5,0,0.92,1.0
+supplier b,55,3,2,0.75,1.0
+supplier c,48,7,3,0.65,0.6
+supplier d,52,6,1,0.85,1.0
+supplier e,53,4,0,0.95,1.0
+supplier f,60,8,4,0.55,0.5
+supplier g,47,6,1,0.88,0.85
+supplier h,58,5,2,0.7,0.65

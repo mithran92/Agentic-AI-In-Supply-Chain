@@ -1,0 +1,11 @@
+supplier,delivery_delay,quality_issue,actual_delivery_time
+SupplierA,0,0,5
+SupplierB,1,0,4
+SupplierC,2,1,8
+SupplierD,0,0,4
+SupplierE,1,0,6
+SupplierA,0,0,5
+SupplierC,3,1,9
+SupplierB,2,0,6
+SupplierD,0,0,4
+SupplierE,1,0,6
